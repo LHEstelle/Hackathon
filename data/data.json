@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "id": 0,
+            "original_title": "Kebab",
+            "overview": "Le kebab pour apprécier les saveurs ottomanes et orientales.",
+            "poster_path": "./img/kebab.jpeg",
+            "category": "fast-food"
+        },
+        {
+            "id": 1,
+            "original_title": "Pizza",
+            "overview": "La pizza est une recette de cuisine traditionnelle de la cuisine italienne.",
+            "poster_path": "./img/pizza.svg",
+            "category": "pizza"
+        },
+        {
+            "id": 2,
+            "original_title": "Francesca",
+            "overview": "Chaîne de restauration rapide italienne cosy spécialisée en salades et pâtes aux sauces traditionnelles.",
+            "poster_path": "./img/pates.jpeg",
+            "category": "pates"
+        },
+        {
+            "id": 3,
+            "original_title": "McDonald's",
+            "overview": "McDonald's Corporation est une chaîne de restauration rapide américaine.",
+            "poster_path": "./img/macdo.svg",
+            "category": "fast-food"
+        },
+        {
+            "id": 4,
+            "original_title": "Burger King",
+            "overview": "Burger King (BK pour les habitués) est une chaîne de restauration rapide d'origine américaine.",
+            "poster_path": "./img/burgerking.jpeg",
+            "category": "fast-food"
+        },
+        {
+            "id": 5,
+            "original_title": "KFC",
+            "overview": "KFC (Kentucky Fried Chicken), ou PFK (Poulet frit à la Kentucky) au Québec, est une chaîne de restauration rapide américaine basée à Louisville dans le Kentucky.",
+            "poster_path": "./img/kfc.jpeg",
+            "category": "fast-food"
+        },
+        {
+            "id": 6,
+            "original_title": "Quick",
+            "overview": "Quick est une chaîne de restauration rapide créée en Belgique en 1971 et qui s'implante en France en 1980.",
+            "poster_path": "./img/quick.jpeg",
+            "category": "fast-food"
+        },
+        {
+            "id": 7,
+            "original_title": "Old Wild West",
+            "overview": "Old Wild West est l’original Burger & Steak House qui propose viandes grillées de très haute qualité dans un cadre spectaculaire.",
+            "poster_path": "./img/burger.jpeg",
+            "category": "burger"
+        },
+        {
+            "id": 8,
+            "original_title": "Subway",
+            "overview": "Subway est une chaîne de restauration rapide, vendant principalement des sandwichs et des salades.",
+            "poster_path": "./img/subway.png",
+            "category": "fast-food"
+        },
+        {
+            "id": 9,
+            "original_title": "O'Tacos",
+            "overview": "O'Tacos est une chaîne de restauration rapide française spécialisée dans les tacos français.",
+            "poster_path": "./img/tacos.png",
+            "category": "fast-food"
+        },
+        {
+            "id": 10,
+            "original_title": "Flavours",
+            "overview": "Envie de manger sainement ? Bienvenue chez Flavours, concept original de bar à soupe/salade sur Le Havre.",
+            "poster_path": "./img/flavours.jpeg",
+            "category": "salade"
+        },
+        {
+            "id": 11,
+            "original_title": "Asian Kitchen",
+            "overview": "L’Asian Kitchen surfe sur le concept de la street food asiatique avec un accès rapide, simple et convivial.",
+            "poster_path": "./img/asian.svg",
+            "category": "pates"
+        },
+        {
+            "id": 12,
+            "original_title": "Hanami Sushi bar",
+            "overview": "Hanami Sushi Bar vous accueille dans son petit restaurant pour y savourer des spécialités japonaises comme les sushis d'une extrême fraîcheur.",
+            "poster_path": "./img/sushi.svg",
+            "category": "burger"
+        }
+    ]
+}
